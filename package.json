@@ -1,0 +1,26 @@
+{
+  "name": "devts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node node_modules/jasmine/bin/jasmine",
+    "tdd": "ts-node node_modules/karma/bin/karma start",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "ts-node": "^8.6.2",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.7.5",
+    "webpack-cli": "3.3",
+    "webpack": "^4.41.5",
+    "webpack-init": "^0.1.2"
+
+  },
+  "dependencies": {
+
+  }
+}
