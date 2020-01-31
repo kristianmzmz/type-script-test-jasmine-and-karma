@@ -11,4 +11,9 @@ describe("Main module", ()=>{
     it("should exists", ()=>{
         expect(main).toBeInstanceOf(Main);
     });
+
+    it("should say hi", ()=>{
+        main.sayHi();
+        expect(main).toBeInstanceOf(Main);
+    });
 });

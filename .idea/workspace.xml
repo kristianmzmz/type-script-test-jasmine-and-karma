@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5175eab8-ce13-4aa9-92c5-465d6d84ad91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/MainSpec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/support/jasmine.json" afterDir="false" />
+    <list default="true" id="248577bd-d974-4282-a6b7-14abad01de7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/karma/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1X7UkFiPbcHuBu9rTBJRk5RtxaG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -26,29 +24,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5175eab8-ce13-4aa9-92c5-465d6d84ad91" name="Default Changelist" comment="" />
-      <created>1580396767928</created>
+      <changelist id="248577bd-d974-4282-a6b7-14abad01de7c" name="Default Changelist" comment="" />
+      <created>1580401994819</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580396767928</updated>
+      <updated>1580401994819</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="527" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580397735016">
+    <state x="341" y="175" key="SettingsEditor" timestamp="1580466643400">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="527" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1580397735016" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1580399063318">
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1580466643400" />
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1580456982777">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1580399063318" />
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1580456982777" />
   </component>
 </project>
